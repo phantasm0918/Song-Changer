@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+.note{
+    font-size: 18px;
+    color:rgb(0, 60, 255);
+
+}
+
+.div_song_img {
+    width:200px;
+    border-radius:100px;
+
+}
+
+
+#speed , #volume{
+      font-size: 20px;
+}
+
+canvas{
+    border: 5px solid gray;
+    border-radius: 10px;
+    margin-top:85px;
+}
+
+.footer{
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(77, 22, 84);
+    color:rgb(0, 60, 255);
+    line-height: 2;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.div_song{
+     float:left;
+}
